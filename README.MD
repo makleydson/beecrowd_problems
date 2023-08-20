@@ -11,3 +11,7 @@
 | 1000 |[HELLO WORLD!](https://www.beecrowd.com.br/judge/pt/problems/view/1000)  |
 | 1001 |[EXTREMAMENTE BÁSICO](https://www.beecrowd.com.br/judge/pt/problems/view/1001)  |
 | 1002 |[ÁREA DO CÍRCULO](https://www.beecrowd.com.br/judge/pt/problems/view/1002)  |
+| 1003 |[SOMA SIMPLES](https://www.beecrowd.com.br/judge/pt/problems/view/1003)  |
+
+
+👨‍💻 [Meu perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/684588)
