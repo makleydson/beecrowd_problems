@@ -8,7 +8,7 @@
 ### 1 INICIANTE
 |PROBLEMA| NOME |
 |--|--|
-| 1000 |[HELLO WORLD!](https://www.beecrowd.com.br/judge/pt/problems/view/1000)  |
+| [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) |[HELLO WORLD!](https://github.com/makleydson/beecrowd_problems/blob/master/1000/helloWorld.js)  |
 | 1001 |[EXTREMAMENTE BÁSICO](https://www.beecrowd.com.br/judge/pt/problems/view/1001)  |
 | 1002 |[ÁREA DO CÍRCULO](https://www.beecrowd.com.br/judge/pt/problems/view/1002)  |
 | 1003 |[SOMA SIMPLES](https://www.beecrowd.com.br/judge/pt/problems/view/1003)  |
