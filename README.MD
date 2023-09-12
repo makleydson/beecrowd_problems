@@ -14,6 +14,7 @@
 | [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) |[SOMA SIMPLES](https://github.com/makleydson/beecrowd_problems/blob/master/1003/somaSimples.js)  |
 | [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) |[PRODUTO SIMPLES](https://github.com/makleydson/beecrowd_problems/blob/master/1004/produtoSimples.js)  |
 | [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) |[MEDIA 1](https://github.com/makleydson/beecrowd_problems/blob/master/1005/media1.js) |
+| [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) |[MEDIA 1](https://github.com/makleydson/beecrowd_problems/blob/master/1006/media2.js) |
 
 
 👨‍💻 [Meu perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/684588)
