@@ -6,6 +6,7 @@ O arquivo de entrada contém um texto (primeiro nome do vendedor) e 2 valores de
 Saída
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.*/
 
+
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 
