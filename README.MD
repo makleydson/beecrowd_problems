@@ -18,6 +18,7 @@
 | [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) |[DIFERENÇA](https://github.com/makleydson/beecrowd_problems/blob/master/1007/diferenca.js) |
 | [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) |[SALÁRIO](https://github.com/makleydson/beecrowd_problems/blob/master/1008/salario.js) |
 | [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) |[SALÁRIO COM BÔNUS](https://github.com/makleydson/beecrowd_problems/blob/master/1009/salarioComBonus.js) |
+| [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) |[CÁLCULO SIMPLES](https://github.com/makleydson/beecrowd_problems/blob/master/1009/salarioComBonus.js) |
 
 
 👨‍💻 [Meu perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/684588)
